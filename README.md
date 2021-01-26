@@ -7,3 +7,7 @@ drop- off locations and will impose late fee if the rental vehicle is returned b
 return date and time. The Customers can use upto one discount coupon to their final bill.
 Customers who have a Corporate account will be by default given a certain fixed %
 discount in their final invoice
+
+In the first part of the project, the focus was on designing a suitable relational schema that can be used to store the
+data in the system. In the second part of the project, we then built a web-accessible frontend that will allow users to
+use the service via their browsers.
